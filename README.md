@@ -1,1 +1,2 @@
-# gitkill*create new branch dev*
+# gitkill
+*create new branch dev*
