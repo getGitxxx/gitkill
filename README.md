@@ -5,4 +5,5 @@
 
 - branch feat 2
 
-- feat branch 1.1
+- feat branch 2.2
+
