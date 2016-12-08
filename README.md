@@ -1,6 +1,6 @@
 # gitkill
 *create new branch dev*
 
-- branch feat 1
+- branch feat 2
 
 
