@@ -7,3 +7,4 @@
 
 - branch issue-001
 
+- add index.html file
